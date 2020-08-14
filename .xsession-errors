@@ -1,0 +1,109 @@
+Xsession: X session started for user at Fri 14 Aug 2020 11:24:27 AM -03
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/user/.Xauthority
+localuser:user being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+pgrep: invalid user name: -x
+** Message: 11:24:28.370: xdg-autostart.vala:39: Processing /etc/xdg/autostart/orca-autostart.desktop file.
+** Message: 11:24:28.370: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.370: xdg-autostart.vala:39: Processing /etc/xdg/autostart/wicd-tray.desktop file.
+** Message: 11:24:28.371: xdg-autostart.vala:94: Launching: wicd-gtk --tray (wicd-tray.desktop)
+** Message: 11:24:28.371: xdg-autostart.vala:39: Processing /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop file.
+** Message: 11:24:28.371: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.371: xdg-autostart.vala:39: Processing /etc/xdg/autostart/gnome-keyring-ssh.desktop file.
+** Message: 11:24:28.371: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.371: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 11:24:28.372: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+** Message: 11:24:28.372: xdg-autostart.vala:39: Processing /etc/xdg/autostart/gnome-keyring-pkcs11.desktop file.
+** Message: 11:24:28.372: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.372: xdg-autostart.vala:39: Processing /etc/xdg/autostart/snap-userd-autostart.desktop file.
+** Message: 11:24:28.373: xdg-autostart.vala:94: Launching: /usr/bin/snap userd --autostart (snap-userd-autostart.desktop)
+** Message: 11:24:28.373: xdg-autostart.vala:39: Processing /etc/xdg/autostart/geoclue-demo-agent.desktop file.
+** Message: 11:24:28.374: xdg-autostart.vala:94: Launching: /usr/lib/geoclue-2.0/demos/agent (geoclue-demo-agent.desktop)
+** Message: 11:24:28.374: xdg-autostart.vala:39: Processing /etc/xdg/autostart/vmware-user.desktop file.
+** Message: 11:24:28.375: xdg-autostart.vala:94: Launching: /usr/bin/vmware-user-suid-wrapper (vmware-user.desktop)
+** Message: 11:24:28.375: xdg-autostart.vala:39: Processing /etc/xdg/autostart/pulseaudio.desktop file.
+** Message: 11:24:28.377: xdg-autostart.vala:94: Launching: start-pulseaudio-x11 (pulseaudio.desktop)
+** Message: 11:24:28.439: xdg-autostart.vala:39: Processing /home/user/.config/autostart/lxrandr-autostart.desktop file.
+** Message: 11:24:28.439: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.440: xdg-autostart.vala:39: Processing /etc/xdg/autostart/print-applet.desktop file.
+** Message: 11:24:28.447: xdg-autostart.vala:94: Launching: system-config-printer-applet (print-applet.desktop)
+** Message: 11:24:28.449: xdg-autostart.vala:39: Processing /etc/xdg/autostart/light-locker.desktop file.
+** Message: 11:24:28.467: xdg-autostart.vala:94: Launching: light-locker (light-locker.desktop)
+** Message: 11:24:28.534: xdg-autostart.vala:39: Processing /home/user/.config/autostart/about.desktop file.
+
+(vmware-user:1418): Gtk-WARNING **: 11:24:28.544: gtk_disable_setlocale() must be called before gtk_init()
+
+** (process:1394): WARNING **: 11:24:28.547: xdg-autostart.vala:97: Error: Failed to execute child process ?/usr/local/bin/about.sh? (No such file or directory)
+
+** Message: 11:24:28.548: xdg-autostart.vala:39: Processing /etc/xdg/autostart/gnome-keyring-secrets.desktop file.
+** Message: 11:24:28.548: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.548: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 11:24:28.557: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 11:24:28.557: xdg-autostart.vala:39: Processing /etc/xdg/autostart/org.gnome.SettingsDaemon.DiskUtilityNotify.desktop file.
+** Message: 11:24:28.557: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 11:24:28.557: xdg-autostart.vala:39: Processing /etc/xdg/autostart/lxpolkit.desktop file.
+** Message: 11:24:28.557: xdg-autostart.vala:44: Hidden attribute set, aborting.
+** Message: 11:24:28.557: xdg-autostart.vala:39: Processing /etc/xdg/autostart/clipit-startup.desktop file.
+** Message: 11:24:28.557: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+polybar|error: Disabling module "alsa" (reason: No built-in support for 'internal/alsa')
+polybar|error: Disabling module "battery" (reason: No suitable way to get current capacity value)
+polybar|error: Disabling module "network" (reason: Invalid network interface "wlan0")
+Traceback (most recent call last):
+  File "/usr/local/bin/nmd", line 15, in <module>
+    import configparser
+ImportError: No module named configparser
+[Parent 2351, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-OkiLyK/firefox-esr-68.5.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+/usr/local/bin/ob-places-pipemenu : cannot find executable script /usr/bin/al-recent-files-pipemenu
+
+(zenity:3046): GLib-GObject-CRITICAL **: 11:35:45.880: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Traceback (most recent call last):
+  File "/usr/local/bin/nmd", line 15, in <module>
+    import configparser
+ImportError: No module named configparser
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available
+/home/user/.config/rofi/scripts/mpdmenu.sh: line 7: mpc: command not found
+/home/user/.config/rofi/scripts/mpdmenu.sh: line 41: mpc: command not found
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available
+Traceback (most recent call last):
+  File "/home/user/.config/rofi/scripts/networkmenu.py", line 25, in <module>
+    gi.require_version('NM', '1.0')
+  File "/usr/lib/python2.7/dist-packages/gi/__init__.py", line 129, in require_version
+    raise ValueError('Namespace %s not available' % namespace)
+ValueError: Namespace NM not available

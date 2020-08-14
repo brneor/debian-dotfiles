@@ -1,0 +1,237 @@
+** Message: 13:09:57.935: utils.vala:30: config_path_directory: /home/user/.config/lxsession-default-apps
+** Message: 13:09:57.965: desktop-files-backend.vala:171: test config_path: /home/user/.config/lxsession-default-apps/settings.conf
+** Message: 13:09:57.965: desktop-files-backend.vala:237: Scanning folder: /usr/share/applications
+** Message: 13:09:57.965: desktop-files-backend.vala:287: Start scanning
+
+** Message: 13:09:57.971: desktop-files-backend.vala:265: /usr/share/app-install/desktop doesn't exist. Pass
+** Message: 13:09:57.972: desktop-files-backend.vala:209: Signal finish scanning available with mode: write
+** Message: 13:09:57.983: desktop-files-backend.vala:189: Signal finish scanning installed with mode: write
+** Message: 13:09:57.984: desktop-files-backend.vala:342: Finishing scanning
+
+
+(lxsession-default-apps:7147): Gtk-WARNING **: 13:09:58.009: Attempting to add a widget with type GtkVBox to a container of type LDefaultAppsMainWindows, but the widget is already inside a container of type GtkWindow, the GTK+ FAQ at http://library.gnome.org/devel/gtk-faq/stable/ explains how to reparent a widget.
+** Message: 13:09:58.012: autostart.vala:72: Conf file for autostart: /home/user/.config/lxsession/openbox/autostart
+** Message: 13:09:58.012: autostart.vala:72: Conf file for autostart: /home/user/.config/lxsession/openbox/autostart
+** Message: 13:09:58.012: autostart.vala:72: Conf file for autostart: /home/user/.config/lxsession/openbox/autostart
+** Message: 13:09:58.012: autostart.vala:87: Autostart conf file : /home/user/.config/lxsession/openbox/autostart
+
+(lxsession-default-apps:7147): Gtk-WARNING **: 13:09:58.012: Attempting to add a widget with type GtkVBox to a container of type GtkAlignment, but the widget is already inside a container of type GtkAlignment, the GTK+ FAQ at http://library.gnome.org/devel/gtk-faq/stable/ explains how to reparent a widget.
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.012: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.012: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.013: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.013: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.013: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.013: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.014: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.014: combobox.vala:443: Default = (null)
+** Message: 13:09:58.015: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.016: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.016: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.016: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.016: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.017: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.017: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.017: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.018: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.018: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.018: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.019: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.019: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.019: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.019: combobox.vala:443: Default = (null)
+** Message: 13:09:58.019: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.021: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.021: combobox.vala:443: Default = (null)
+** Message: 13:09:58.021: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.022: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.022: combobox.vala:443: Default = (null)
+** Message: 13:09:58.022: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.023: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.023: combobox.vala:443: Default = (null)
+** Message: 13:09:58.023: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.023: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.023: combobox.vala:443: Default = (null)
+** Message: 13:09:58.024: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.024: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.024: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.025: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.025: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.025: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.025: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.026: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.026: combobox.vala:443: Default = (null)
+** Message: 13:09:58.026: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.027: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.027: combobox.vala:443: Default = (null)
+** Message: 13:09:58.027: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.028: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.028: combobox.vala:443: Default = (null)
+** Message: 13:09:58.028: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.029: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.029: combobox.vala:443: Default = (null)
+** Message: 13:09:58.029: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.031: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.031: combobox.vala:443: Default = (null)
+** Message: 13:09:58.031: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.032: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.032: combobox.vala:443: Default = (null)
+** Message: 13:09:58.032: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.033: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.033: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.033: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.033: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.034: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.034: combobox.vala:443: Default = (null)
+** Message: 13:09:58.034: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.035: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.035: combobox.vala:443: Default = (null)
+** Message: 13:09:58.035: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.035: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.036: combobox.vala:443: Default = (null)
+** Message: 13:09:58.036: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.036: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.036: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.037: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.037: combobox.vala:443: Default = (null)
+** Message: 13:09:58.037: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.039: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.039: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.040: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.040: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.041: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.041: combobox.vala:443: Default = (null)
+** Message: 13:09:58.041: combobox.vala:484: Iter == -1
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.042: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.042: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.042: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.042: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.043: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.043: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.043: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.043: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.044: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.044: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.044: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.044: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.045: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.045: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.045: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.045: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.045: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.045: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.046: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.046: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.046: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.046: combobox.vala:728: Default = (null)
+** Message: 13:09:58.047: combobox.vala:684:  Return value for no
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.048: file lxsession-default-apps/dbus-backend.c: line 2198: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.050: file lxsession-default-apps/dbus-backend.c: line 2098: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.051: file lxsession-default-apps/dbus-backend.c: line 2498: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.051: combobox.vala:728: Default = (null)
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.051: file lxsession-default-apps/dbus-backend.c: line 2498: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.051: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.052: file lxsession-default-apps/dbus-backend.c: line 2498: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.052: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.052: file lxsession-default-apps/dbus-backend.c: line 2498: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.052: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.053: file lxsession-default-apps/dbus-backend.c: line 2498: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.053: IA__gtk_entry_set_text: assertion 'text != NULL' failed
+
+(lxsession-default-apps:7147): GLib-GObject-WARNING **: 13:09:58.053: invalid (NULL) pointer instance
+
+(lxsession-default-apps:7147): GLib-GObject-CRITICAL **: 13:09:58.053: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.053: file lxsession-default-apps/dbus-backend.c: line 2608: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.053: combobox.vala:728: Default = (null)
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.054: file lxsession-default-apps/dbus-backend.c: line 2718: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.054: file lxsession-default-apps/dbus-backend.c: line 2828: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+** Message: 13:09:58.054: combobox.vala:728: Default = (null)
+
+** (lxsession-default-apps:7147): CRITICAL **: 13:09:58.055: file lxsession-default-apps/dbus-backend.c: line 2828: unexpected error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.lxde.SessionManager was not provided by any .service files (g-dbus-error-quark, 2)
+
+(lxsession-default-apps:7147): Gtk-CRITICAL **: 13:09:58.055: IA__gtk_entry_set_text: assertion 'text != NULL' failed

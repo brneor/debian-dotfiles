@@ -1,0 +1,55 @@
+Xsession: X session started for user at Mon 09 Mar 2020 09:22:02 AM -03
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/user/.Xauthority
+localuser:user being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+pgrep: invalid user name: -x
+** Message: 09:22:04.775: xdg-autostart.vala:39: Processing /etc/xdg/autostart/orca-autostart.desktop file.
+** Message: 09:22:04.775: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:04.793: xdg-autostart.vala:39: Processing /etc/xdg/autostart/wicd-tray.desktop file.
+** Message: 09:22:04.795: xdg-autostart.vala:94: Launching: wicd-gtk --tray (wicd-tray.desktop)
+** Message: 09:22:04.829: xdg-autostart.vala:39: Processing /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop file.
+** Message: 09:22:04.829: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:04.865: xdg-autostart.vala:39: Processing /etc/xdg/autostart/gnome-keyring-ssh.desktop file.
+** Message: 09:22:04.865: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:04.872: xdg-autostart.vala:39: Processing /etc/xdg/autostart/xdg-user-dirs.desktop file.
+** Message: 09:22:04.891: xdg-autostart.vala:94: Launching: xdg-user-dirs-update (xdg-user-dirs.desktop)
+** Message: 09:22:04.911: xdg-autostart.vala:39: Processing /etc/xdg/autostart/gnome-keyring-pkcs11.desktop file.
+** Message: 09:22:04.911: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:04.925: xdg-autostart.vala:39: Processing /etc/xdg/autostart/snap-userd-autostart.desktop file.
+** Message: 09:22:04.926: xdg-autostart.vala:94: Launching: /usr/bin/snap userd --autostart (snap-userd-autostart.desktop)
+** Message: 09:22:04.944: xdg-autostart.vala:39: Processing /etc/xdg/autostart/geoclue-demo-agent.desktop file.
+** Message: 09:22:05.128: xdg-autostart.vala:94: Launching: /usr/lib/geoclue-2.0/demos/agent (geoclue-demo-agent.desktop)
+** Message: 09:22:05.198: xdg-autostart.vala:39: Processing /etc/xdg/autostart/vmware-user.desktop file.
+** Message: 09:22:05.200: xdg-autostart.vala:94: Launching: /usr/bin/vmware-user-suid-wrapper (vmware-user.desktop)
+** Message: 09:22:05.271: xdg-autostart.vala:39: Processing /etc/xdg/autostart/pulseaudio.desktop file.
+** Message: 09:22:05.273: xdg-autostart.vala:94: Launching: start-pulseaudio-x11 (pulseaudio.desktop)
+polybar|error: Disabling module "alsa" (reason: No built-in support for 'internal/alsa')
+polybar|error: Disabling module "battery" (reason: No suitable way to get current capacity value)
+polybar|error: Disabling module "network" (reason: Invalid network interface "wlan0")
+** Message: 09:22:05.899: xdg-autostart.vala:39: Processing /home/user/.config/autostart/lxrandr-autostart.desktop file.
+** Message: 09:22:05.899: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:05.969: xdg-autostart.vala:39: Processing /etc/xdg/autostart/print-applet.desktop file.
+** Message: 09:22:05.972: xdg-autostart.vala:94: Launching: system-config-printer-applet (print-applet.desktop)
+** Message: 09:22:05.989: xdg-autostart.vala:39: Processing /etc/xdg/autostart/light-locker.desktop file.
+** Message: 09:22:06.046: xdg-autostart.vala:94: Launching: light-locker (light-locker.desktop)
+** Message: 09:22:06.060: xdg-autostart.vala:39: Processing /home/user/.config/autostart/about.desktop file.
+
+** (process:1306): WARNING **: 09:22:06.062: xdg-autostart.vala:97: Error: Failed to execute child process ?/usr/local/bin/about.sh? (No such file or directory)
+
+** Message: 09:22:06.236: xdg-autostart.vala:39: Processing /etc/xdg/autostart/gnome-keyring-secrets.desktop file.
+** Message: 09:22:06.236: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:06.264: xdg-autostart.vala:39: Processing /etc/xdg/autostart/at-spi-dbus-bus.desktop file.
+** Message: 09:22:06.266: xdg-autostart.vala:94: Launching: /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately (at-spi-dbus-bus.desktop)
+** Message: 09:22:06.280: xdg-autostart.vala:39: Processing /etc/xdg/autostart/org.gnome.SettingsDaemon.DiskUtilityNotify.desktop file.
+** Message: 09:22:06.280: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+** Message: 09:22:06.463: xdg-autostart.vala:39: Processing /etc/xdg/autostart/lxpolkit.desktop file.
+** Message: 09:22:06.463: xdg-autostart.vala:44: Hidden attribute set, aborting.
+** Message: 09:22:06.488: xdg-autostart.vala:39: Processing /etc/xdg/autostart/clipit-startup.desktop file.
+** Message: 09:22:06.488: xdg-autostart.vala:64: Not found in OnlyShowIn list, aborting.
+
+(vmware-user:1340): Gtk-WARNING **: 09:22:06.963: gtk_disable_setlocale() must be called before gtk_init()
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 12308 requests (12308 known processed) with 0 events remaining.
